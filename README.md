@@ -1,10 +1,10 @@
 # RIOT Analytics - Data Modeling Documentation
 
-## 📓 Modeling Conception
+##  Modeling Conception
 
 The complete **data architecture design and modeling strategy** is documented in a Jupyter notebook:
 
-**📁 [`riot_test.ipynb`](riot_test.ipynb)**
+** [`riot_test.ipynb`](riot_test.ipynb)**
 
 ### Contents
 
@@ -16,7 +16,7 @@ The complete **data architecture design and modeling strategy** is documented in
 - Testing implementation
 ---
 
-## 📊 Source Data
+##  Source Data
 
 **SQLite Database:** [`data/riot_source.db`](data/riot_analytics.db.db)
 
