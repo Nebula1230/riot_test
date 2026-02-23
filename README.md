@@ -4,7 +4,7 @@
 
 The complete **data architecture design and modeling strategy** is documented in a Jupyter notebook:
 
-** [`riot_test.ipynb`](riot_test.ipynb)**
+**[`riot_test.ipynb`](riot_test.ipynb)**
 
 ### Contents
 
