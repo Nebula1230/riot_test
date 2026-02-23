@@ -18,7 +18,7 @@ The complete **data architecture design and modeling strategy** is documented in
 
 ##  Source Data
 
-**SQLite Database:** [`data/riot_source.db`](data/riot_analytics.db)
+**SQLite Database:** [`data/riot_analytics.db`](data/riot_analytics.db)
 
 Contains the source tables:
 - `stripe_customers` - Customer profiles and metadata
